@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [**N-Tier Full Stack Application in Azure**](https://github.com/vishipayyallore/blazorwasm-apim-api-sql-redis)
+- 🔭 I’m currently working on [**Cloud Native Full Stack Application in Azure**](https://github.com/vishipayyallore/blazorwasm-apim-api-sql-redis)
 
 | Project      | Build Status |  Project      | Build Status |   Project      | Build Status | 
 | :---        |    :----:   |  :---        |    :----:   |   :---        |    :----:   | 
