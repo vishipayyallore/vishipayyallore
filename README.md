@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vishipayyallore/vishipayyallore/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/vishipayyallore/vishipayyallore/output/snake.svg" alt="Snake animation" /> -->
 
 ###
